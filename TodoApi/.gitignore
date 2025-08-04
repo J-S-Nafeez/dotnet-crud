@@ -1,0 +1,49 @@
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code settings
+.vscode/
+
+# Rider settings
+.idea/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# dotnet watch/Hot reload
+**/appsettings.Development.json
+**/appsettings.Local.json
+
+# Logs
+*.log
+logs/
+
+# Dependency folders
+packages/
+.nuget/
+
+# Database/Migrations (if sensitive)
+Migrations/
+*.mdf
+*.ldf
+
+# Others
+*.db
+*.db-shm
+*.db-wal
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Secrets
+secrets.json
+
+ 
