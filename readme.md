@@ -105,14 +105,6 @@ Create a `.env` file based on `.env.example` and add your backend API URL:
 REACT_APP_API_URL=https://your-backend-url.onrender.com/api
 ```
 
----
-
-## 🌐 Deployment
-
-- **Backend:** Deploy on [Render](https://render.com/)
-- **Frontend:** Deploy on [Vercel](https://vercel.com/) 
----
-
 ## 📄 License
 
 MIT License — feel free to use and modify!
